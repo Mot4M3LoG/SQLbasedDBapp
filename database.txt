@@ -1,0 +1,16 @@
+
+Table: Test1
+Column: col1
+Column: col2
+Column: col3
+
+Table: Test2
+Column: col1
+Column: col2
+Column: col3
+
+Table: Test3
+Column: col1
+Column: col2
+Column: col3
+Column: col4
